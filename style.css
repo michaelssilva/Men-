@@ -1,0 +1,39 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#menu-h {
+    background-color: rgb(10, 10, 10);
+}
+
+#menu-h {
+    list-style: none;
+    padding: 0;
+    max-width: 800px;
+}
+
+#menu-h ul li{
+    display: inline;
+}
+
+#menu-h  ul li a{
+    color: seashell;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: ;
+}
+
+#menu-h  ul li a:hover{
+    background-color: rgb(56, 6, 194);
+}
+
+#menu-h ul li:last-child a{
+    float: right;
+    background-color: rgb(56, 6, 194);
+}
+
+
+    
